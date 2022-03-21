@@ -1,7 +1,7 @@
 ---
 title: cîel
 role: ""
-avatar_filename: 诺贝尔.jpg
+avatar_filename: nobel.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
